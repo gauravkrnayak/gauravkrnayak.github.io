@@ -1,11 +1,8 @@
 title: Gaurav Kumar Nayak # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/gaurav-nayak-6227ba53">View My LinkedIn Profile</a> 
+  A deep learning enthusiast !!
+  <a href="https://www.linkedin.com/in/gaurav-nayak-6227ba53">View My LinkedIn Profile</a> <br>
   <a href="https://scholar.google.co.in/citations?user=cLCeKTkAAAAJ&hl=en&oi=ao">View My Google Scholar Profile</a> 
   
 theme: jekyll-theme-minimal
